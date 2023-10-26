@@ -1,4 +1,4 @@
-pandoc research.md -f markdown -t html -s -o research.html
+pandoc research.md -f markdown -t html -s -o research.html --css pandoc.css
 
-pandoc index.md -f markdown -t html -s -o index.html --css index.css
+pandoc index.md -f markdown -t html -s -o index.html --css pandoc.css
 

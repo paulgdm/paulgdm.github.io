@@ -25,14 +25,14 @@ html {
 }
 
 body {
-  color: #0000;
+  color: #4e4d4d00;
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-size: 12px;
   line-height: 1.7;
   padding: 1em;
   margin: auto;
   max-width: 42em;
-  background: #fefefe;
+  background: #14523d;
 }
 
 a {

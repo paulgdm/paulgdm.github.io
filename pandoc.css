@@ -25,7 +25,7 @@ html {
 }
 
 body {
-  color: #444;
+  color: #0000;
   font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
   font-size: 12px;
   line-height: 1.7;
@@ -340,4 +340,4 @@ table td {
   h2, h3 {
     page-break-after: avoid;
   }
-}
+} 

@@ -1,22 +1,3 @@
-
-Skip to content
-All gists
-Back to GitHub
-@paulgdm
-@killercup
-killercup/pandoc.css
-Created July 3, 2013 11:31 • Report abuse
-
-Code
-Revisions 1
-Stars 488
-Forks 84
-Add this to your Pandoc HTML documents using `--css pandoc.css` to make them look more awesome. (Tested with Markdown and LaTeX.)
-pandoc.css
-/*
- * I add this to html files generated with pandoc.
- */
-
 html {
   font-size: 100%;
   overflow-y: scroll;

@@ -10,4 +10,5 @@ Work address : Laboratoire Hubert Curien, Université Jean-Monnet, CNRS, 18 rue 
 
 E-mail : paul.grandamme@univ-st-etienne.fr  
 
-LinkedIn : (https://www.linkedin.com/in/paulgrandamme)  
+[LinkedIn](https://www.linkedin.com/in/paulgrandamme) 
+[Google Scholar](https://scholar.google.com/citations?user=-Jzm0YYAAAAJ&hl=en) 

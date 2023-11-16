@@ -7,3 +7,5 @@ title: Personnal Webpage
 <u>[Email](<mailto:paul.grandamme@univ-st-etienne.fr>) </u>  
 
 [Research](./research.html)
+
+[CV](./CV.html)

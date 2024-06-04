@@ -2,6 +2,8 @@
 title: CV
 ...
 
+[Home](./index.html)
+
 ## Personnal data
 
 Paul GRANDAMME - PhD Student  

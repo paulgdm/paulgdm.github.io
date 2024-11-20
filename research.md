@@ -15,4 +15,4 @@ title: Research
 **Multi-spot laser fault injection setup : New possibilities for fault injection attacks**
 Brice Colombier, Paul Grandamme, Julien Vernay, Émilie Chanavat, Lilian Bossuet,
 Lucie de Laulanié, Bruno Chassagne\
-![test](pdf.png)
+[![homepage](./pdf.png)](./files/Multispot_CARDIS_2021.pdf "View PDF")

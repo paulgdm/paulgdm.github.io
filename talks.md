@@ -31,8 +31,10 @@ Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2023](https
 **Éteindre votre composant électronique ne le protège pas !**\
 Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2024](https://jaif.io/2024/)), Rennes,
 France
+[![pdf](./pdf.png)](./files/posters/poster_JAIF_2024.pdf "View PDF")
 
 ## 2022
 
 **Attaque laser de primitives de sécurité non alimentées**\
 Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2022](https://jaif.io/2022/)), Valence, France
+[![pdf](./pdf.png)](./files/posters/poster_JAIF_2022.pdf "View PDF")

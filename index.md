@@ -10,4 +10,6 @@ title: Personnal Webpage
 
 [Research](./research.html)
 
+[Talks](./talks.html)
+
 [CV](./CV.html)

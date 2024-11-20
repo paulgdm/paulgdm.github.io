@@ -3,9 +3,13 @@ title: Research
 ...
 [Home](./index.html)
 
+# Journal articles
+
 **Switching Off your Device Does Not Protect Against Fault Attacks**\
 Paul Grandamme, Pierre-Antoine Tissot, Lilian Bossuet, Jean-Max Dutertre, Brice Colombier, Vincent Grosso\
 [![pdf](./pdf.png)](./files/LFI_power_off_TCHES_2024.pdf "View PDF") - [HAL](https://hal.science/hal-04642748v1 "View on HAL") - [DOI](https://tches.iacr.org/index.php/TCHES/article/view/11798 "")
+
+# Conference articles
 
 **X-Ray Fault Injection in non-volatile memories on Power OFF devices**\
 Paul Grandamme, Lilian Bossuet, Jean-Max Dutertre\

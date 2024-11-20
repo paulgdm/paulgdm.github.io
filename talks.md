@@ -7,6 +7,9 @@ title: Talks and Posters
 
 ## 2024
 
+**Switching Off your Device Does Not Protect Against Fault Attacks, CHES**\
+[![video](./yt.png)](https://www.youtube.com/watch?v=jB8bo6WX8Ts "View video")
+
 **Éteindre votre composant électronique ne le protège pas !**\
 Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2024](https://jaif.io/2024/)), Rennes, France\
 [![pdf](./pdf.png)](./files/slides/JAIF_2024.pdf "View PDF")

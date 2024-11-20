@@ -5,7 +5,7 @@ title: Research
 
 **Switching Off your Device Does Not Protect Against Fault Attacks**\
 Paul Grandamme, Pierre-Antoine Tissot, Lilian Bossuet, Jean-Max Dutertre, Brice Colombier, Vincent Grosso\
-[![](./pdf.png)](./files/LFI_power_off_TCHES_2024.pdf "View PDF") - [![](<img src="./HAL_logo.png">
+[![](./pdf.png)](./files/LFI_power_off_TCHES_2024.pdf "View PDF") - [![](<img src="./HAL_logo.png" width="500">
 )](./files/LFI_power_off_TCHES_2024.pdf "View PDF")
 
 **X-Ray Fault Injection in non-volatile memories on Power OFF devices**\

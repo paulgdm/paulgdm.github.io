@@ -19,7 +19,7 @@ Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2024](https
 Cryptographic architectures embedded in logic devices ([Cryptarchi 2023](https://labh-curien.univ-st-etienne.fr/cryptarchi/workshop23/home.html)), Cantabria, Spain
 
 **X-Ray Fault Injection on Power OFF Devices**\
-Journée 2023 des doctorants de l’équipe SAS ([JDOC SAS 2023](https://labh-curien.univ-st-etienne.fr/cryptarchi/workshop23/home.html)), Gardanne, France
+Journée 2023 des doctorants de l’équipe SAS ([JDOC SAS 2023](https://www.mines-stetienne.fr/recherche/centres-et-departements/systemes-et-architectures-securises-sas/journee-des-doctorants-2023/)), Gardanne, France
 
 **X-Ray Fault Injection on Power OFF devices**\
 Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2023](https://jaif.io/2023/)), Gardanne, France

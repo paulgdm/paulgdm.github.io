@@ -8,7 +8,7 @@ title: Talks and Posters
 ## 2024
 
 **Switching Off your Device Does Not Protect Against Fault Attacks**\
-Cryptographic Hardware and Embedded Systems ([CHES 2024](https://ches.iacr.org/2024/index.php)), Halifax, Canada\)
+Cryptographic Hardware and Embedded Systems ([CHES 2024](https://ches.iacr.org/2024/index.php)), Halifax, Canada\
 [![pdf](./pdf.png)](./files/slides/CHES_2023.pdf "View PDF") - [![video](./yt.png)](https://www.youtube.com/watch?v=jB8bo6WX8Ts "View video")
 
 **Éteindre votre composant électronique ne le protège pas !**\

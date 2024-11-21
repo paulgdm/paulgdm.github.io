@@ -22,7 +22,7 @@ Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2024](https
 ## 2023
 
 **X-Ray Fault Injection in non-volatile memories on Power OFF devices**\
-IEEE International Conference on Physical Assurance and Inspection of Electronics([PAINE 2023](https://paine-conference.org/program-2023/)), Huntsville, Alamaba, USA\
+IEEE International Conference on Physical Assurance and Inspection of Electronics ([PAINE 2023](https://paine-conference.org/program-2023/)), Huntsville, Alamaba, USA\
 [![pdf](./pdf.png)](./files/slides/PAINE_2023.pdf "View PDF")
 
 **X-Ray Fault Injection on Power OFF devices**\
@@ -40,7 +40,7 @@ Journée thématique sur les Attaques par Injection de Fautes ([JAIF 2023](https
 ## 2021
 
 **Multi-spot laser fault injection setup : New possibilities for fault injection attacks**\
-20<sup>th</sup> Smart Card Research and Advanced Application Conference, ([CARDIS 2021](https://cardis2021.its.uni-luebeck.de/index.html)), Lubeck, Germany\
+20<sup>th</sup> Smart Card Research and Advanced Application Conference ([CARDIS 2021](https://cardis2021.its.uni-luebeck.de/index.html)), Lubeck, Germany\
 [![pdf](./pdf.png)](./files/slides/CARDIS_2021.pdf "View PDF")
 
 # Posters

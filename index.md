@@ -14,4 +14,4 @@ title: Personnal Webpage
 
 [CV](./CV.html)
 
-[Running](./Running.html)
+[Running](./running.html)

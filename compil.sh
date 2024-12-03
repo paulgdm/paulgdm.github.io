@@ -6,4 +6,4 @@ pandoc index.md -f markdown -t html -s -o index.html --css pandoc.css
 
 pandoc talks.md -f markdown -t html -s -o talks.html --css pandoc.css
 
-pandoc running.md -f markdown -t html -s -o runnning.html --css pandoc.css
+pandoc running.md -f markdown -t html -s -o running.html --css pandoc.css

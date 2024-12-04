@@ -3,10 +3,6 @@ title: Runs and Trails
 ...
 [Home](./index.html)
 
-<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/95451021/latest-rides/324f8840e19df4ea4c7f82a1c2d6dd8844225866'></iframe>
-
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/95451021/activity-summary/324f8840e19df4ea4c7f82a1c2d6dd8844225866'></iframe>
-
 # Runs
 
 ## Half-Marathons
@@ -28,3 +24,7 @@ title: Runs and Trails
 |:---------:|:----:|:----:|:-----|:----:|:----:|
 | SaintExpress | 2024 | 45km | 1050m | 5h29'21'' | 873/3492 |
 | PilaTrail | 2025 | 42km | 2200m | TBD | TBD |
+
+# Recent Activities
+
+<iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/95451021/latest-rides/324f8840e19df4ea4c7f82a1c2d6dd8844225866'></iframe>

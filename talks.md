@@ -5,6 +5,12 @@ title: Talks and Posters
 
 # Talks
 
+## 2025
+
+**Laser Fault Injection on electronic devices for security evaluation**\
+Manutech-SLEIGHT Science Event ([SSE #13](https://manutech-sleight.com/scientific-events/the-sleight-science-events/sse-13-sleight-in-2025/)), Saint-Étienne, France\
+[![pdf](./pdf.png)](./files/slides/SSE_13.pdf "View PDF")
+
 ## 2024
 
 **Switching Off your Device Does Not Protect Against Fault Attacks**\

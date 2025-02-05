@@ -7,6 +7,10 @@ title: Talks and Posters
 
 ## 2025
 
+**Techniques avancées d'attaques par injection de fautes sur circuits intégrés**\
+PhD Defense, Saint-Étienne, France\
+[![pdf](./pdf.png)](./files/slides/soutenance_these.pdf "View PDF")
+
 **Laser Fault Injection on electronic devices for security evaluation**\
 Manutech-SLEIGHT Science Event ([SSE #13](https://manutech-sleight.com/scientific-events/the-sleight-science-events/sse-13-sleight-in-2025/)), Saint-Étienne, France\
 [![pdf](./pdf.png)](./files/slides/SSE_13.pdf "View PDF")

@@ -3,6 +3,12 @@ title: Research
 ...
 [Home](./index.html)
 
+# PhD Thesis
+
+**Techniques avancées d'attaques par injection de fautes sur circuits intégrés**\
+Paul Grandamme\
+[![pdf](./pdf.png)](./files/papers/manuscrit.pdf "View PDF")
+
 # Journal articles
 
 **Switching Off your Device Does Not Protect Against Fault Attacks**\

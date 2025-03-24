@@ -12,6 +12,12 @@ title: Runs and Trails
 | Semi-Marathon International de Toulouse | 2017 | 1h50'40'' | 1105/2921 |
 | Run In Lyon | 2024 | 1h48'24'' | 4446/15279 |
 
+## Marathons
+
+| Name | Year | Time | Rank |
+|:---------:|:----:|:----:|:----:|
+| Run In Lyon | 2025 | TBD | TBD |
+
 ## Others
 
 | Name | Year | Distance | Time | Rank |

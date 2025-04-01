@@ -26,11 +26,11 @@ title: Runs and Trails
 
 # Trails
 
-| Name | Year | Distance | D+ | Time | Rank |
-|:---------:|:----:|:----:|:-----|:----:|:----:|
-| SaintExpress | 2024 | 45km | 1050m | 5h29'21'' | 873/3492 |
-| Lyon Urban Trail | 2025 | 25km | 1100m | 2h51'38'' | 651/1972 |
-| PilaTrail | 2025 | 42km | 2200m | TBD | TBD |
+| Name | Year | Distance | D+ | Time | Rank | Strava |
+|:---------:|:----:|:----:|:-----|:----:|:----:|:----:|
+| SaintExpress | 2024 | 45km | 1050m | 5h29'21'' | 873/3492 | <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="13020047006" data-style="standard" data-from-embed="false"></div><script src="https://strava-embeds.com/embed.js"></script> |
+| Lyon Urban Trail | 2025 | 25km | 1100m | 2h51'38'' | 651/1972 | |
+| PilaTrail | 2025 | 42km | 2200m | TBD | TBD | |
 
 # Recent Activities
 

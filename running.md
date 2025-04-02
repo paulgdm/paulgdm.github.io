@@ -3,6 +3,8 @@ title: Runs and Trails
 ...
 [Home](./index.html)
 
+[View on map](./claudie/map.html) (Thanks Brice Colombier !)
+
 # Runs
 
 ## Half-Marathons

@@ -11,6 +11,10 @@ title: Talks and Posters
 PhD Defense, Saint-Étienne, France\
 [![pdf](./pdf.png)](./files/slides/soutenance_these.pdf "View PDF")
 
+**Advanced techniques for fault injection attacks on integrated circuits**\
+SemSecuElec Seminar ([SemSecuElec](https://www.creachlabs.fr/en/seminars-keeping-date-latest-research/semsecuelec-seminar/advanced-techniques-fault-injection-attacks-integrated-circuits)), Rennes, France\
+[![pdf](./pdf.png)](./files/slides/semsecuelec.pdf "View PDF")
+
 **Laser Fault Injection on electronic devices for security evaluation**\
 Manutech-SLEIGHT Science Event ([SSE #13](https://manutech-sleight.com/scientific-events/the-sleight-science-events/sse-13-sleight-in-2025/)), Saint-Étienne, France\
 [![pdf](./pdf.png)](./files/slides/SSE_13.pdf "View PDF")

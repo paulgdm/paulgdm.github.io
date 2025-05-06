@@ -13,7 +13,7 @@ PhD Defense, Saint-Étienne, France\
 
 **Advanced techniques for fault injection attacks on integrated circuits**\
 SemSecuElec Seminar ([SemSecuElec](https://www.creachlabs.fr/en/seminars-keeping-date-latest-research/semsecuelec-seminar/advanced-techniques-fault-injection-attacks-integrated-circuits)), Rennes, France\
-[![pdf](./pdf.png)](./files/slides/semsecuelec.pdf "View PDF")
+[![pdf](./pdf.png)](./files/slides/semsecuelec.pdf "View PDF") - [![video](./play.png)](./files/videos/semsecuelec.mp4 "View video")
 
 **Laser Fault Injection on electronic devices for security evaluation**\
 Manutech-SLEIGHT Science Event ([SSE #13](https://manutech-sleight.com/scientific-events/the-sleight-science-events/sse-13-sleight-in-2025/)), Saint-Étienne, France\

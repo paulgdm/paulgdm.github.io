@@ -594,9 +594,13 @@ tfoot td {
     background: #2E4057;
 }
 
+.articles {
+  margin-bottom: 100px;
+}
+
 .articlesbg p ,
 .articles p {
-    width: 60%;
+    width: 80%;
     margin-top: 40px;
     margin-left: auto;
     margin-right: auto;
@@ -616,7 +620,7 @@ tfoot td {
 
 
 .articleliens {
-    margin-left: 65%;
+    margin-left: 80%;
     text-align: left;
     font-size: 1.2em;
     margin-top: -50px;
@@ -625,7 +629,7 @@ tfoot td {
 
 .article {
     margin-top: 0px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     font-size: 1.1em;
 }
 
